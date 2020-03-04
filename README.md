@@ -1,5 +1,7 @@
 # google_cloud_image_nixos
 
+Deprecated. Replaced by https://github.com/tweag/terraform-nixos/
+
 This terraform module builds and publishes custom NixOS Google Cloud images.
 
 ## Runtime dependencies
